@@ -1,4 +1,4 @@
-<?php if(!$_SESSION['nombre']==""&&!$_SESSION['tipo']==""){
+  <?php if(!$_SESSION['nombre']==""&&!$_SESSION['tipo']==""){
 
         /*Script para eliminar cuenta*/
         if(isset($_POST['usuario_delete']) && isset($_POST['clave_delete'])){
@@ -152,7 +152,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <img src="img/Stop.png" alt="Image" class="img-responsive animated slideInDown"/><br>
-                <img src="img/SadTux.png" alt="Image" class="img-responsive"/>
+                <img src="img/DuticSinFondo.png" alt="Image" class="img-responsive"/>
 
             </div>
             <div class="col-sm-7 animated flip">

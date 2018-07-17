@@ -168,7 +168,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <img src="./img/Stop.png" alt="Image" class="img-responsive"/><br>
-                <img src="./img/SadTux.png" alt="Image" class="img-responsive"/>
+                <img src="./img/DuticSinFondo.png" alt="Image" class="img-responsive"/>
 
             </div>
             <div class="col-sm-7 text-center">

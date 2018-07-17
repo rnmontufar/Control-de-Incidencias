@@ -1,4 +1,4 @@
-  <?php if(isset($_SESSION['nombre']) && isset($_SESSION['tipo'])){
+<?php if(isset($_SESSION['nombre']) && isset($_SESSION['tipo'])){
 
 
         if(isset($_POST['fecha_ticket']) && isset($_POST['name_ticket']) && isset($_POST['email_ticket'])){
@@ -172,7 +172,7 @@
 
             </div>
             <div class="col-sm-7 text-center">
-                <h1 class="text-danger">Lo sentimos esta página es solamente para usuarios registrados en LinuxStore</h1>
+                <h1 class="text-danger">Lo sentimos esta página es solamente para usuarios registrados en DUTIC - UNSA</h1>
                 <h3 class="text-info">Inicia sesión para poder acceder</h3>
             </div>
             <div class="col-sm-1">&nbsp;</div>
